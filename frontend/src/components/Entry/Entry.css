@@ -1,0 +1,59 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #2674ea;
+  border-radius: 34px;
+  padding: 20px;
+  margin: 50px;
+  color: #2674ea;
+}
+
+.form-header {
+  display: flex;
+  flex-direction: row;
+}
+
+.form-header > h1 {
+  padding: 20px 0px 50px;
+  font-family: "Inter";
+  font-style: italic;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-button {
+  padding: 20px;
+  position: absolute;
+  right: 7%;
+}
+
+.form-button > a {
+  margin: 15px;
+  font-family: "Inter";
+  font-style: normal;
+  cursor: pointer;
+}
+
+form {
+  margin-left: 40px;
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 20px;
+}
+
+textarea {
+  padding: 10px;
+  border: 1px solid #2674ea;
+  border-radius: 18px;
+  width: 92%;
+}

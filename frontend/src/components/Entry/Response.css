@@ -1,0 +1,35 @@
+.entry {
+  margin: 50px;
+  padding: 40px 80px;
+  border: 1px solid #2674ea;
+  border-radius: 34px;
+  color: #2674ea;
+  font-family: "Inter";
+}
+
+.entry > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.dlt-btn {
+  padding: 20px;
+  position: absolute;
+  right: 7%;
+  font-size: 20px;
+  font-family: "Inter";
+}
+
+h1 {
+  padding: 20px;
+  font-style: italic;
+  padding-bottom: 0;
+}
+
+.questions {
+  padding: 20px;
+}
+
+.questions > div {
+  padding-top: 20px;
+}

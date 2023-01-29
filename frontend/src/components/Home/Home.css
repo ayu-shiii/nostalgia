@@ -1,0 +1,24 @@
+.center-items {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #2674ea;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #2674ea;
+}
+
+button {
+  text-decoration: none;
+  font-weight: bold;
+  color: #2674ea;
+  font-weight: 900;
+  font-size: large;
+  border: none;
+  cursor: pointer;
+}

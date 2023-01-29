@@ -1,0 +1,32 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #2674ea;
+  padding: 20px;
+  background-color: #ffdcf3;
+}
+
+.img-class {
+  height: 50px;
+  width: 50px;
+  background-color: #ffdcf3;
+}
+
+nav a {
+  color: #2674ea;
+  text-decoration: none;
+  background-color: #ffdcf3;
+  padding-right: 100px;
+}
+
+nav button {
+  color: #2674ea;
+  background-color: #ffdcf3;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.nav-links {
+  display: flex;
+}

@@ -1,0 +1,16 @@
+.center-items {
+  align-items: center;
+}
+
+h1 {
+  font-family: "Inter";
+  font-style: normal !important;
+}
+
+.about-content {
+  margin: 50px 20px;
+}
+
+.about-footer {
+  padding-top: 20px;
+}

@@ -1,0 +1,18 @@
+.entry {
+  border: 1px solid #2674ea;
+  border-radius: 34px;
+  color: #2674ea;
+  padding: 30px !important;
+  margin-right: 30px !important;
+}
+
+.entry-title {
+  padding: 10px !important;
+}
+
+.entry-title > a {
+  font-size: 20px;
+  font-family: "Inter";
+  font-style: italic;
+  font-weight: bold;
+}
